@@ -1,0 +1,82 @@
+Bengali:
+http://bartamanpatrika.com/
+http://www.epaper.eisamay.com/ 
+http://zeenews.india.com/bengali/blog 
+https://bengali.news18.com/blogs/ 
+http://www.prothomalo.com/ 
+http://www.ittefaq.com.bd/ 
+
+Hindi:
+https://www.jagran.com
+https://www.jansatta.com
+https://www.amarujala.com
+https://www.bhaskar.com
+https://navbharattimes.indiatimes.com
+https://hindi.news18.com
+https://www.patrika.com
+https://naidunia.jagran.com
+https://www.khaskhabar.com
+
+Tamil:
+https://tamil.oneindia.com/news/tamilnadu/
+https://tamil.oneindia.com/news/india/
+https://tamil.oneindia.com/news/business/
+https://www.dailythanthi.com/News/World/
+https://www.dailythanthi.com/News/Puducherry/
+https://www.dailythanthi.com/Sports/
+https://www.dailythanthi.com/News/State/
+
+http://www.dinamani.com/india/
+
+http://www.dinamani.com/world/
+
+http://www.dinamani.com/business/
+
+http://www.dinamani.com/sports/
+
+http://www.dinamani.com/tamilnadu/
+https://www.maalaimalar.com/News/Sports/
+https://www.maalaimalar.com/News/National/
+https://www.maalaimalar.com/News/World/
+https://www.maalaimalar.com/News/State/
+
+http://www.dinakaran.com/
+
+http://tamil.thehindu.com/
+
+http://makkalkural.net/
+
+http://www.tamilmurasu.com.sg/
+
+https://theekkathir.in/
+
+http://www.maalaisudar.com/
+
+http://dinasudar.co.in/
+
+https://www.vikatan.com/
+
+
+
+
+
+
+
+
+
+Title:  response.css('.head-news').xpath('./h4/strong/text()').extract()
+Content: response.css('.content').xpath('./div/text()').extract()
+
+Marathi:
+Loksatta: https://www.loksatta.com/
+Maharashtra Times: https://maharashtratimes.indiatimes.com/
+Sakal: www.esakal.com/
+Samna: www.saamana.com/
+Lokmat: www.lokmat.com/
+Tarun Bharat: epaper.tarunbharat.com/
+Kesari: www.dailykesari.com/kesarinews.aspx
+Nava Kaal: www.navakal.org/
+Pudhari: newspaper.pudhari.co.in/
+Prahar: epaper.eprahaar.in/
+Divya Marathi: https://divyamarathi.bhaskar.com/
+Punya Nagari: www.epunyanagari.com/
